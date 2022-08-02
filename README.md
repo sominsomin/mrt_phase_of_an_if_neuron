@@ -18,7 +18,7 @@ Process:
   - https://github.com/sominsomin/mrt_phase_of_an_if_neuron/blob/master/mrt_phase_numeric/isochrones/get_isochrones/timeseries_config.py
   - https://github.com/sominsomin/mrt_phase_of_an_if_neuron/blob/master/mrt_phase_numeric/isochrones/get_isochrones/timeseries_grid_config.py
   
-- run https://github.com/sominsomin/mrt_phase_of_an_if_neuron/blob/master/mrt_phase_numeric/isochrones/get_isochrones/get_multiple_isochrones.py
+- set TYPE variable and max_n_iterations and phi_inits in https://github.com/sominsomin/mrt_phase_of_an_if_neuron/blob/master/mrt_phase_numeric/isochrones/get_isochrones/get_multiple_isochrones.py
 
 # Finite Strip approach:
 
