@@ -1,5 +1,5 @@
-# Mean return time phase of an integrate-and-fire neuron with spike-triggered adaptation
-Scripts for calculating a mean return time phase for an integrate and fire neuron with spike triggered adaptation.
+# Mean-return-time phase of an integrate-and-fire neuron with spike-triggered adaptation
+Scripts for calculating a mean-return-time phase (isochrones) for an integrate and fire neuron with spike triggered adaptation.
 Scripts relating to my master thesis.
 
 Code is not mantained and serves more as a reference for anyone interested in the approaches used.
